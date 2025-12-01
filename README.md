@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ginmothra
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Html, Css, Bootstrap, and Python🐍
+- 🌱 I’m currently learning Laravel, Filament, Golang
 - 💞️ I’m looking to collaborate with Anyone
 - 😄 Pronouns: He/Him
 - ⚡ Hobbies: Coding, Playing Game, and Reading book
